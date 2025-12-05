@@ -1,0 +1,8 @@
+{
+  "name": "Assist+ Project Dashboard",
+  "description": "A comprehensive project management dashboard for Assist+ (S++) featuring SLA timers, smart assignment UI, and automated weekly reporting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
